@@ -13,6 +13,7 @@
 # Technologies Used
 * CSS3
 * HTML5
+* Netlify
 
 # Getting Started 
 
